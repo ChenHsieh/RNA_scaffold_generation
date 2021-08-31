@@ -18,7 +18,10 @@ we tried to generate candidate scaffolds from a set of elements according to the
 
 we wanted to find out why the synthesis of certain products that totally abide by the above rules still fail. That's why we try to predict the minimum free energy (mfe) and secondary structure of the products. 
 
+![mfe_distribution_from_generated_seq](mfe_distribution_from_generated_seq.png)
+
 # TODO
+
 [] rather than randomly pick up elements, we should try to list all possible combinations of elements
 
 [] expand the properties to examine in the future, or other way to find out the secret that cause synthesis failure
