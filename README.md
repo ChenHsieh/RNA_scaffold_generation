@@ -20,5 +20,7 @@ we wanted to find out why the synthesis of certain products that totally abide b
 
 # TODO
 [] rather than randomly pick up elements, we should try to list all possible combinations of elements
+
 [] expand the properties to examine in the future, or other way to find out the secret that cause synthesis failure
+
 [] make the update of submission or available elements as a web service so that we can collect more data more easily
